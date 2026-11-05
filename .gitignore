@@ -1,0 +1,20 @@
+# Environnement Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Kivy
+.kivy/
+
+# Fichiers sensibles
+.env
+.env.*
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Système
+Thumbs.db
+.DS_Store
