@@ -1,15 +1,17 @@
 
-# 💰 MesDepenses
+ MesDepenses
 
 Application de gestion personnelle des dépenses et du budget.
 
-## 🛠️ Technologies utilisées
+Technologies utilisées
 
 - Python
 - Kivy
 - FastAPI
+- tornado
+- streamlit
 
-## ✨ Fonctionnalités
+ Fonctionnalités
 
 - Définir et modifier un budget
 - Ajouter des dépenses
@@ -18,25 +20,24 @@ Application de gestion personnelle des dépenses et du budget.
 - Consulter le total des dépenses
 - Voir le solde restant
 
-## 🚀 Installation
+ Installation
 
 Cloner le repository :
-
-```bash
+bash
 git clone URL_DE_TON_REPOSITORY
-```
+
 
 Installer les dépendances :
 
-```bash
+ bash
 pip install -r requirements.txt
-```
 
-## ▶️ Lancement
+
+Lancement
 
 Démarrer le backend FastAPI, puis lancer l'application Kivy.
 
-## 👨‍💻 Auteur
+ Auteur
 
 Niavo
 
